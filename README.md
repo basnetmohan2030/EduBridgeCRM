@@ -73,6 +73,3 @@ The system successfully demonstrates how a tailored CRM solution can:
 - Enhance operational efficiency
 - Improve client handling and management
 - Provide better organization and tracking of educational consultancy processes
-
-## Security Note
-Please change the default passwords after your first login for security purposes. 
